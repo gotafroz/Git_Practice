@@ -1,0 +1,5 @@
+#########Ignore Below Extension###########
+#####Author:Afroz Shaikh#########
+##########Date: 20th August 2024###########
+*.pdf
+*.java
